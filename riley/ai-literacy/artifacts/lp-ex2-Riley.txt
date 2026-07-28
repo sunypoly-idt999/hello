@@ -1,0 +1,26 @@
+Because you actively recognize that progressive disclosure risks trading *messy accuracy* for *smooth legibility*, your best way to retain and apply [HAAII x UX] isn't a flashcard of design principles. It’s an analytical lens tailored to your specific instinct to look for the "flattened" areas.
+
+Here is a personalized reference framework designed to help you bypass the sanitized summaries and immediately access the full depth of any AI system you encounter or design. 
+
+### 🔍 Your Core Question to Hold Onto
+
+Whenever you encounter a new AI interface, a new generative feature, or a smooth explanation of how an AI system works, do not ask, "What does this do?" Instead, ask:
+
+> **"What specific, messy human failure is this interface desperately trying to prevent?"**
+
+When you ask this, you stop looking at the UI as a set of features and start seeing it as a defense mechanism against probabilistic chaos. A citation isn't just a link; it's a defense against automation bias. A "regenerate" button isn't a convenience; it's an admission that the system's first guess is often wrong.
+
+---
+
+### 🛡️ The "Anti-Flattening" Lens for [HAAII x UX]
+
+To ensure you are never just learning the "100-word version" of a complex AI interaction, run any new tool or concept through this three-part diagnostic. This is your personal reference for evaluating depth.
+
+| The Flattened Assumption (What you are avoiding) | The Full-Depth Reality (Where you should focus) | What to Look For in the Wild |
+| :--- | :--- | :--- |
+| **"The UI is designed to build the user's trust."** | The UI must carefully *calibrate* trust, deliberately injecting friction so the user doesn't blindly believe hallucinations. | Look for **intentional friction points**. Does the system force the user to confirm a choice? Does it visually highlight its own uncertainty? |
+| **"The system adapts to what the user wants."** | The system is a probabilistic engine that is secretly shifting the burden of QA (Quality Assurance) onto the end-user. | Look for **hidden labor mechanisms**. How is the UI capturing the user's micro-corrections (edits, thumbs downs, prompt tweaks) to train itself? |
+| **"The AI acts as an intelligent assistant."** | The AI and the user are in a continuous loop of co-creation, where context management is the hardest technical problem. | Look for **context amnesia**. How hard is it to get the AI to remember a rule you set three prompts ago? How does the UI expose what the AI has forgotten? |
+
+**Key Takeaway for Your Learning Style:** 
+You learn best by stress-testing boundaries. Don't try to memorize the "best practices" of Human-AI Interaction. Instead, go find a popular AI tool, intentionally try to push it into a failure state, and analyze the UX safety nets it uses to catch you. That is where the un-flattened reality lives.

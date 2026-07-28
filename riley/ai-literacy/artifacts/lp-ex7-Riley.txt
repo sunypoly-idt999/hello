@@ -1,0 +1,49 @@
+Here's the breakdown — the college version won structurally because its architecture (term → definition → use case) matched its function, while the other two either added a decoding layer or skipped the foundation entirely.
+
+# Structural Analysis: Three Versions of HAAII × UX
+
+## Version 1: "10-Year-Old" (both attempts)
+
+**Architecture:** Metaphor-first. Each concept is introduced by finding an analogous object or experience (a video game helper, a friend guessing lunch, a calculator check) and the actual definition is derived *from* the analogy rather than stated directly.
+
+**Tone:** Playful, indirect, reassuring.
+
+**Assumptions:** Assumes the reader needs a bridge from something familiar to something unfamiliar — that abstraction is the obstacle, not the content itself.
+
+**Density:** Low information density per sentence. Each concept takes multiple sentences to arrive at because it's routed through a comparison first.
+
+**Failure mode:** The bridge became the destination. Instead of analogy clarifying the concept, the analogy became something to parse *in addition to* the concept — adding a decoding step rather than removing one.
+
+---
+
+## Version 2: "First-Year College Student"
+
+**Architecture:** Definition-first, structured as a labeled list. Each concept gets a bolded term, a direct definition, and then — where useful — a brief real-world instantiation of that definition. No detour through metaphor.
+
+**Tone:** Direct, expository, assumes the reader can hold an abstraction once it's named.
+
+**Assumptions:** Assumes prior exposure to adjacent ideas (interface, interaction, system) but not to the specific vocabulary of the field. Meets the reader at "you know what software is" rather than "you know what a video game is."
+
+**Density:** High. Each bullet is a self-contained unit — term, definition, application — with minimal narrative connective tissue between them.
+
+**Result:** Nothing to decode. The term *is* the explanation; the example anchors it rather than replacing it.
+
+---
+
+## Version 3: "Working Professional"
+
+**Architecture:** Discourse-first. Written as if addressing someone already fluent in the vocabulary — it names debates, tensions, and terms (calibrated trust, XAI, autonomy gradients) without pausing to define them, and instead elaborates on their *implications* and *open problems*.
+
+**Tone:** Analytical, insider-register, forward-looking.
+
+**Assumptions:** Assumes the reader already has the definitions this version skips — it's building on a floor rather than laying one.
+
+**Density:** High, but front-loaded with jargon rather than explanation — density of implication, not density of definition.
+
+**Failure mode:** Skipped the foundation. It was rich on trajectory but left the reader to supply their own definitions for the terms doing the actual work.
+
+---
+
+## Which version served you best, and why
+
+**Version 2.** Structurally, it's the only one where architecture matches function: term → definition → use case, with nothing extraneous between the reader and the concept. It didn't assume you already knew the vocabulary (unlike Version 3), and it didn't insert a translation layer you had to decode before reaching the concept (unlike Version 1). The bolded-term list format also meant each idea could be evaluated independently — you could stop, disagree, or want more on any single line without needing the surrounding narrative to make sense of it. That structural independence is likely what made it feel clear rather than dense.

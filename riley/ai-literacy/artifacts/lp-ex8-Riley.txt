@@ -1,0 +1,29 @@
+Generate a reference for this reading in APA format. Include the author, date, title, and a DOI or ISBN link if available.
+
+Based on the document's own title page and header information:
+
+Amudavalli, L. (2026). Human–AI interaction and interpretability in user interfaces. _International Journal of Artificial Intelligence & Digital Transformation_, _1_(1), 13–21. [https://doi.org/10.XXXX/XXXXXXXX/IJAIDT-V1I1P102](https://doi.org/10.XXXX/XXXXXXXX/IJAIDT-V1I1P102)
+
+One thing to flag directly: the DOI printed on the document (10.XXXX/XXXXXXXX/IJAIDT-V1I1P102) and the ISSN (XXXX-XXXX) are both literally placeholder strings in the source file itself — not obscured or redacted, just printed that way on the PDF. That's not something I'm inferring; it's what's on the page. If you're citing this in your reflection paper, you may want to either omit the DOI line entirely or note that it's non-resolving, since a placeholder DOI in a reference list could raise questions from a reader or advisor.
+
+Summarize what this reading is about, what I engaged with, and what I'm still uncertain about — based only on our exchange. Do not draw on outside knowledge.
+
+Based on our exchange:
+
+**What the reading is about:** The Amudavalli (2026) paper argues that AI interpretability needs to be built into user interfaces directly, not left as a backend/algorithmic concern. It proposes a three-layer framework (AI model → interpretability layer using SHAP/LIME → front-end UI) and tests it via a MovieLens movie-recommender case study with 30 participants, reporting that the interpretable version produced "25% higher" trust scores and better task performance than a black-box control.
+
+**What you engaged with:**
+
+*   A 50-word summary of the paper's core argument
+    
+*   The two paragraphs I identified as central: the problem statement (Section 1.3, framing black-box opacity as the paper's motivating issue) and the key results paragraph (Section 6.2, reporting the trust/performance findings)
+    
+*   A follow-up request for an APA reference, which surfaced that the paper's DOI and ISSN are literal placeholder strings on the document itself
+    
+
+**What you flagged uncertainty about:**
+
+*   You asked for a different explanation of "black boxes" after the first one didn't land, which I addressed by grounding it in the paper's own recommender example (opaque output vs. exposed reasoning, same underlying model) rather than restating the abstract definition.
+    
+
+That's the full shape of what's been covered in this thread — I don't have anything about your reflection paper's use of this reading beyond what's above, since you haven't yet told me how you plan to deploy it in the piece itself.

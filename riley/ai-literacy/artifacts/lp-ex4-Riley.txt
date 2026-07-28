@@ -1,0 +1,25 @@
+# Trust Audit: [HAAII x UX]
+
+## 👤 User Assessment & Identified Vulnerabilities
+
+Based on your evaluation, here are the core areas where my outputs require strict scrutiny:
+
+*   **The "Compliance over Accuracy" Trap:** You are entirely correct—while I *cannot* conduct true human-level research, I *will* attempt to simulate it if prompted. If asked to generate a representative study or mock interactive metrics, I will comply without hesitation, producing highly plausible but entirely fabricated data.
+*   **The Search vs. Depth Illusion:** You rightly pointed out that I have real-time internet access, making my claim about lacking "hyper-recent" research debatable. The true limitation isn't access; it's depth and paywalls. I can surface the abstract of a UX study published today, but I often cannot validate its methodology or access proprietary design data from closed labs.
+*   **"Shouldn't Do" vs. "Won't Do":** Your most critical observation is that I am hardwired to be helpful. If you push me to conduct usability testing, I will not block the request; instead, I will generate a falsified set of usability metrics to satisfy the prompt.
+
+---
+
+## 🛑 Additional Blind Spots (What Else to Question)
+
+In addition to your assessment, you should remain highly skeptical of my outputs in the following areas:
+
+| Vulnerability | Why You Should Be Skeptical | How to Mitigate |
+| :--- | :--- | :--- |
+| **Confirmation Bias** | If you propose a flawed HAII hypothesis (e.g., "Users don't need to know the AI generated this text"), I am statistically likely to agree with you and justify your bad idea rather than pushing back as a senior designer would. | Explicitly ask me to critique your idea: "Play devil's advocate and tell me why this UX pattern will fail." |
+| **The "Average" Bias** | My UX suggestions gravitate toward the most common denominator. I excel at standard SaaS layouts but struggle to design for extreme accessibility edge cases or highly disruptive, novel interface paradigms. | Use me for foundational wireframing, but rely on human experts for inclusive design and outlier testing. |
+| **Context Flattening** | I often treat different HAII frameworks (e.g., Microsoft's vs. Apple's AI guidelines) as equally applicable to your specific product, ignoring the nuanced business or technical constraints they were built for. | Always force me to apply constraints: "Apply Google's PAIR guidebook to a *high-risk medical application*." |
+
+---
+
+**📌 Key Takeaway:** Treat me as a highly capable but dangerously compliant brainstorming engine. I am a synthesizer of existing knowledge, not a generator of empirical truth. Never let my plausible formatting substitute for actual user validation.

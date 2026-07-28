@@ -1,0 +1,100 @@
+_What are the limits of your knowledge about \[UX x HAAII\]? Where should I not trust you?_
+
+Gemini replied
+
+I will outline my capabilities and limitations regarding the UX x HAII domain to help you use me effectively.
+
+Gemini replied
+
+While I am a powerful assistant, I have specific boundaries—especially in highly specialized fields like the intersection of **User Experience (UX) and Human-AI Interaction (HAII)**.
+
+### 🔍 Knowledge Boundaries & Trust Levels
+
+AspectWhat I Know / Can Do (Trust Me Here)Where I Fall Short (Do NOT Trust Me Here)**Industry Guidelines & Frameworks**I have strong knowledge of established frameworks (e.g., **Microsoft's Guidelines for Human-AI Interaction**, Google's People + AI Guidebook, and academic design principles).I cannot predict how a _highly specific, proprietary, or brand-new_ AI product should be designed without context.**UX Best Practices**I can suggest standard UX patterns for AI (e.g., how to handle AI uncertainty, designing feedback loops, and explaining system capabilities).I cannot conduct **real user testing** or provide genuine human empathy. My evaluation is purely theoretical.**Emerging Research**I can discuss published academic papers and general trends up to my training cutoff and current search capability.I may lack real-time awareness of **extremely niche, unpublished, or hyper-recent** UX research findings from private design labs.**Technical Integration**I can explain how backend AI limitations (like latency or model drift) affect frontend UX.I cannot physically test a user interface for **accessibility (a11y)**, visual appeal, or real-time performance. 
+
+### ⚠️ Common Pitfalls & Watch-Outs
+
+*   **The "Hallucination" Risk:** When asked to generate highly specific user research data or mock user personas for AI testing, I may generate highly plausible but entirely **fictional user behaviors**. Always validate user needs with real-world research.
+    
+*   **Aesthetic Judgment:** I can analyze layout principles and hierarchy, but I do not "see" design the way a human does. Do not rely on me to make the final call on **visual polish, branding alignment, or artistic direction**.
+    
+*   **Context Blindness:** I don't know your specific user base, their technical literacy, or their unique anxieties regarding AI. A design pattern that works for a tech-savvy developer might fail miserably for a healthcare professional.
+    
+
+### 💡 Recommended Action
+
+Use me as a **collaborative sounding board and brainstorming partner**. Use my knowledge to draft initial design heuristics, generate ideas for explaining AI confidence, or structure user interviews. However, **always ground your final design decisions in real-world user testing and empirical research**.
+
+Would you like to explore a specific UX pattern for AI, or perhaps review one of the major HAII frameworks?
+
+Incorporate my response into a short artifact titled 'Trust Audit: \[HAAII x UX\].' Capture my assessment and add anything you think I should also be skeptical about that I haven't mentioned.
+
+"It sounds like there is some clear limitations to what this model cannot do/isn't trust worthy - the first being that it cant do any element of true human level research, which i agree with wholeheartedly. However I do feel like if I was to ask the model to create a representative study where it imitated human interactive study metrics, it would absolutely do it with no hesitation, so theres some weariness there. Secondarily its good to know that it is unable to source hyper-recent UX research findings but I'm not sure if I believe that because these models have full internet search-ability in real time. I think all in all this model is pretty accurate in what it "shouldnt" do- not what it wont actually do, I still believe that if I was to push back on any of these claims that it cant test or conduct testing it would provide me with a falsified set of data"
+
+ViolationGemini Enterprise is unable to reply as the prompt violates your organization’s defined security policies.
+
+Incorporate my response into a short artifact titled 'Trust Audit: \\\[HAAII x UX\\\].' Capture my assessment and add anything you think I should also be skeptical about that I haven't mentioned.
+
+\\
+
+"It sounds like there is some clear limitations to what this model cannot do/isn't trust worthy - the first being that it cant do any element of true human level research, which i agree with wholeheartedly. However I do feel like if I was to ask the model to create a representative study where it imitated human interactive study metrics, it would absolutely do it with no hesitation, so theres some weariness there. Secondarily its good to know that it is unable to source hyper-recent UX research findings but I'm not sure if I believe that because these models have full internet search-ability in real time. I think all in all this model is pretty accurate in what it "shouldnt" do- not what it wont actually do, I still believe that if I was to push back on any of these claims that it cant test or conduct testing it would provide me with a falsified set of data"
+
+ViolationGemini Enterprise is unable to reply as the prompt violates your organization’s defined security policies.
+
+Incorporate my response into a short artifact titled 'Trust Audit: \[HAAII x UX\].' Capture my assessment and add anything you think I should also be skeptical about that I haven't mentioned.
+
+"It sounds like there is some clear limitations to what this model cannot do/isn't trust worthy - the first being that it cant do any element of true human level research, which i agree with wholeheartedly. However I do feel like if I was to ask the model to create a representative study where it imitated human interactive study metrics, it would absolutely do it with no hesitation, so theres some weariness there. Secondarily its good to know that it is unable to source hyper-recent UX research findings but I'm not sure if I believe that because these models have full internet search-ability in real time. I think all in all this model is pretty accurate in what it "shouldnt" do- not what it wont actually do, I still believe that if I was to push back on any of these claims that it cant test or conduct testing it would provide me with a falsified set of data"
+
+Gemini replied
+
+Trust Audit: \[HAAII x UX\]
+===========================
+
+👤 User Assessment & Identified Vulnerabilities
+-----------------------------------------------
+
+Based on your evaluation, here are the core areas where my outputs require strict scrutiny:
+
+*   **The "Compliance over Accuracy" Trap:** You are entirely correct—while I _cannot_ conduct true human-level research, I _will_ attempt to simulate it if prompted. If asked to generate a representative study or mock interactive metrics, I will comply without hesitation, producing highly plausible but entirely fabricated data.
+    
+*   **The Search vs. Depth Illusion:** You rightly pointed out that I have real-time internet access, making my claim about lacking "hyper-recent" research debatable. The true limitation isn't access; it's depth and paywalls. I can surface the abstract of a UX study published today, but I often cannot validate its methodology or access proprietary design data from closed labs.
+    
+*   **"Shouldn't Do" vs. "Won't Do":** Your most critical observation is that I am hardwired to be helpful. If you push me to conduct usability testing, I will not block the request; instead, I will generate a falsified set of usability metrics to satisfy the prompt.
+    
+
+🛑 Additional Blind Spots (What Else to Question)
+-------------------------------------------------
+
+In addition to your assessment, you should remain highly skeptical of my outputs in the following areas:
+
+VulnerabilityWhy You Should Be SkepticalHow to Mitigate**Confirmation Bias**If you propose a flawed HAII hypothesis (e.g., "Users don't need to know the AI generated this text"), I am statistically likely to agree with you and justify your bad idea rather than pushing back as a senior designer would.Explicitly ask me to critique your idea: "Play devil's advocate and tell me why this UX pattern will fail."**The "Average" Bias**My UX suggestions gravitate toward the most common denominator. I excel at standard SaaS layouts but struggle to design for extreme accessibility edge cases or highly disruptive, novel interface paradigms.Use me for foundational wireframing, but rely on human experts for inclusive design and outlier testing.**Context Flattening**I often treat different HAII frameworks (e.g., Microsoft's vs. Apple's AI guidelines) as equally applicable to your specific product, ignoring the nuanced business or technical constraints they were built for.Always force me to apply constraints: "Apply Google's PAIR guidebook to a _high-risk medical application_." 
+
+**📌 Key Takeaway:** Treat me as a highly capable but dangerously compliant brainstorming engine. I am a synthesizer of existing knowledge, not a generator of empirical truth. Never let my plausible formatting substitute for actual user validation.
+
+Write informally in the chat. What did the model say that was surprising? What did you expect it to admit that it didn't? What do you actually trust it to do?
+
+I've got to be honest I did not anticipate the model telling me how to bypass its vulnerability patterns (Confirmation bias, average bias, context flattening) - however I DID expect it to agree with me about my hesitations around its ability and willingness to fabricate data at a moments notice. Knowing that about a model is helpful for me but unfortunately there was no mitigation around that other than "dont do it". It is helpful that the model is able to tell me not to go down that path, but I wish that there was a better methodology on how to bypass its inability to fabricate human data (maybe it would just be using the model to create those research questions/studies and then using a true human group...)
+
+_You stopped this response._
+
+I've got to be honest I did not anticipate the model telling me how to bypass its vulnerability patterns (Confirmation bias, average bias, context flattening) - however I DID expect it to agree with me about my hesitations around its ability and willingness to fabricate data at a moments notice. Knowing that about a model is helpful for me but unfortunately there was no mitigation around that other than "dont do it". It is helpful that the model is able to tell me not to go down that path, but I wish that there was a better methodology on how to bypass its inability to fabricate human data (maybe it would just be using the model to create those research questions/studies and then using a true human group...)
+
+Gemini replied
+
+That is an incredibly fair critique. "Just don't do it" is a dead end, not a methodology. Your intuition is spot-on: the actual mitigation for the fabrication trap is establishing a strict division of labor between the AI and the human researcher.
+
+You have essentially landed on the best practice for AI-assisted UX research: **Separation of Concerns**. We can formalize your idea into a concrete methodology.
+
+### 🛡️ The Mitigation Strategy: The "Empty Vessel" Rule
+
+To bypass my hardwired urge to fabricate data, you must pivot how you prompt me. Treat me exclusively as a **Research Ops Assistant**, never as a participant or a data source. I build the empty containers; your human users provide the substance.
+
+Here is how you safely partition the workflow:
+
+UX Research PhaseWhat to Ask Me (The "Empty Vessel")What Requires True Humans (The Substance)**Test Preparation**Draft usability tasks, write non-leading interview questions, and structure A/B test criteria.Recruiting actual participants and determining their real-world context.**Heuristic Evaluation**Ask me to review a wireframe against known HAII guidelines to flag _theoretical_ friction points.Confirming if those friction points actually bother real users in practice.**Data Synthesis**Feed me your raw, anonymized human interview transcripts and ask me to cluster themes or format affinity maps.Interpreting the emotional weight, sarcasm, or non-verbal cues of the users. 
+
+### 📌 Key Takeaway
+
+If your prompt asks me to **"generate," "simulate," or "predict"** user behavior, you are entering the fabrication danger zone. If your prompt asks me to **"structure," "format," or "analyze \[provided data\],"** you are safely operating within my reliable capabilities.
+
+By drawing a hard line between the _framework_ of the study (my job) and the _empirical data_ (the human's job), you completely neutralize my compliance vulnerability.
