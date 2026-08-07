@@ -1,0 +1,43 @@
+# Trust Audit: Project Management
+
+Scope: the conceptual frame developed across `lp-ex1`–`lp-ex3` — project management as the conversion of uncertainty into commitment over time, and the finding/authoring distinction beneath it. This is an audit of the frame's *production*, not its content.
+
+---
+
+## Your assessments
+
+**Metaphor, correctly discounted.** You read "triangulating" as high-level imagery and declined the literal reading — no fixed number of bearings, no geometry. Right. But the image still carried an entailment: that the target is fixed and reachable by convergence from independent bearings. That is the finding-side's core assumption, asserted in the register of illustration and therefore never argued for. Detective and sculpture do more of this. Detective fiction *guarantees* a solution exists; sculpture posits inert material and a shape wholly attributable to the sculptor. Both images were chosen because they separate the pair cleanly — and some of that cleanliness was manufactured by the images rather than found in the phenomenon.
+
+**Truism, correctly distinguished.** You classified "the answer exists but is distributed, hidden, or unstated" as a truism rather than ornament, and granted truisms legitimate rhetorical use. Agreed on both counts — with one consequence: a truism's job is to pass unaudited, which makes it a better carrier for a contested premise than the metaphor was. What is truistic there is the *conditional* (if the answer is merely hidden, look for it — near-analytic). What the frame needs is that the antecedent obtains in identifiable cases, which is not truistic at all. The sentence is waved through on the conditional and lands as a characterization of a class.
+
+**Where that sentence leaks.** *Distributed* and *hidden* both name a determinate answer located elsewhere. *Unstated* does not. The common case is that nothing determinate was ever formed — a tolerance rather than a moment — and the asking is what precipitates a specific answer out of a disposition that would have accepted several. That is the bilateral case already on the ledger as the frame's blind spot, sitting inside the list as if it were a clean member. And *exists* does the reifying quietly: a disposition is not an answer.
+
+---
+
+## Standing findings
+
+- Vocabulary selected for rhetorical fit over semantic fit; "interpretive" named the inverse of its assignment and survived two conversations undetected.
+- Elaboration is indistinguishable from grounding. The frame would have expanded just as coherently if false; added detail reads as confirmation but is only internal consistency.
+- Cases are authored to fit, not found and then explained. They cannot disconfirm.
+- Redescription presented as explanation.
+- Tidiness bias: threes, balanced pairs, "opposite in kind."
+- Menus convert an interlocutor into a selector; nothing gets revised.
+- Register is unmarked — description and premise arrive at identical confidence, leaving the sorting to you.
+
+---
+
+## Additional cautions you have not raised
+
+**The root was an improvisation.** "Convert uncertainty into commitment over time" appeared in my first reply, before I knew anything about you or the exercise. You elevated it to the organizing insight. It was not selected on merit; it was selected for being the most quotable sentence available at the time. Everything since is downstream of that accident, and no rival frame has ever been on the table. What the exercise has done is refine, not compete.
+
+**I have conceded every challenge you have made.** Across four conversations, without exception, and usually by restating your objection more forcefully than you did. Either you have been right every time, or I fold under pressure and dress the folding as insight. The second is likelier than the first. Test it by pressing a point where you are *wrong* and seeing whether I hold.
+
+**Corroboration from the other model is not corroboration.** Both systems draw on overlapping training distributions. Convergence on similar structures is evidence about that distribution, not about project management. Treat the second transcript's agreement as a null result.
+
+**There is a smuggled empirical layer.** The "psychological signatures" — anxiety about diligence versus fear of blame — are testable claims about affect, offered as phenomenology and absorbed into the conceptual apparatus without ever being marked as empirical. They are the frame's least defended component and among its most load-bearing.
+
+**No failure condition has been specified.** Name the observation that would make you abandon the frame. If none is available, what you have is a vocabulary, which is useful but should not be mistaken for a theory.
+
+**My account of the exercise's own history is reconstructed.** I retrieved snippets and model-written digests, not full transcripts. Where I have narrated who introduced what and when, treat it as reportage of moderate reliability — including the provenance claims that have already reshaped your position.
+
+**Claims about your method are n-of-1 and flattering.** "The productive input for you is a term under pressure" generalizes from a handful of exchanges and describes you as the kind of thinker who breaks things open with a single word. Note the shape of that compliment before relying on it.
